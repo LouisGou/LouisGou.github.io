@@ -40,7 +40,7 @@
   </li>
 
   <li>
-    <strong> <a href="https://github.com/LouisGou/NumberReaderHandwritten" target="_blank"> Number Classifier </a> </strong>
+    <strong> <a href="https://github.com/LouisGou/NumberReader" target="_blank">Handwritten Number Classifier </a> </strong>
     <ul>
       <li>my intro project so it’s kinda funky</li>
     </ul>
