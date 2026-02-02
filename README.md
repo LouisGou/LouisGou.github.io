@@ -32,7 +32,7 @@
   </li>
 
   <li>
-    <strong>Homelab (2nd hand parts)</strong>
+    <strong>Homelab (made3 wtith 2nd hand parts)</strong>
     <ul>
       <li>used by me and my friends to play Minecraft every once in a while</li>
       <li>also functions as my own NAS and VPN</li>
