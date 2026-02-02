@@ -3,8 +3,8 @@
   <h1>louis's page</h1>
 
   <p>
-    Henlo! Welcome to my page 👋<br>
-    I am Louis, an incoming NUS undergrad.
+    Henlo! Welcome to my page <br>
+    I am Louis, an incoming NUS undergrad. 
   </p>
 
   <p>
@@ -47,4 +47,8 @@
   </li>
 </ul>
 
-<!-- ===== end ===== -->
+<h2>Contact</h2>
+<ul>
+  <li>Email: louisgou<@>outlook<.>com </li>
+  <li>LinkedIn: https://www.linkedin.com/in/louisgou/ </li>
+</ul>
