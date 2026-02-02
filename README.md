@@ -52,7 +52,7 @@
   <li>Email: louisgouatoutlookdotcom </li>
   <li><p>
   Connect with me on
-  <a href="https://www.linkedin.com/in/louis-gou/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/louisgou/" target="_blank">LinkedIn</a>
 </p>
 </li>
 </ul>
