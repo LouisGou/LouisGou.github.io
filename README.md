@@ -14,7 +14,7 @@ This is merely a page for me to share my mini projects and other tomfoolery :)))
 ## projects 
 - options flow scanner (WIP)
 - homelab running with 2nd hand parts
-    its for me and my friends to play minecraft every once in a while
-    plus its fucntions my own NAS and vpn
+  - its for me and my friends to play minecraft every once in a while
+  - plus its fucntions my own NAS and vpn
 - Handwritten number classifier
-    its my intro project so its kinda funky  
+  - its my intro project so its kinda funky  
