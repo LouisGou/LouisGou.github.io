@@ -50,5 +50,9 @@
 <h2>Contact</h2>
 <ul>
   <li>Email: louisgouatoutlookdotcom </li>
-  <li>LinkedIn: href="https://www.linkedin.com/in/louisgou/" </li>
+  <li><p>
+  Connect with me on
+  <a href="https://www.linkedin.com/in/louis-gou/" target="_blank">LinkedIn</a>
+</p>
+</li>
 </ul>
