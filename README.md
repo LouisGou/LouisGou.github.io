@@ -32,6 +32,12 @@
   </li>
 
   <li>
+    <strong> <a href="[https://github.com/LouisGou/startup-runway-simulator]" target="_blank">Start-up runway Sim </a> </strong>
+    <ul>
+      <li>calculates how much money before money runs low plus some other features</li>
+    </ul>
+  </li>
+  <li>
     <strong>Homelab (made wtith 2nd hand parts)</strong>
     <ul>
       <li>used by me and my friends to play Minecraft every once in a while</li>
