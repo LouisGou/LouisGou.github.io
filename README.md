@@ -4,7 +4,7 @@
 
   <p>
     Henlo! Welcome to my page <br>
-    I am Louis, an incoming NUS undergrad. 
+    I am Louis, NUS math and econs undergrad. 
   </p>
 
   <p>
@@ -15,7 +15,7 @@
 
 <hr>
 
-<h2>a lil more about me</h2>
+<h2>a little more about me</h2>
 <ul>
   <li>constantly trolling in Python</li>
   <li>enjoys shooting arrows (I shoot a compound bow lol)</li>
@@ -49,7 +49,7 @@
 
 <h2>Contact</h2>
 <ul>
-  <li>Email: louisgouatoutlookdotcom </li>
+  <li>Email: louisgou(at)u(dot)nus(dot)edu </li>
   <li><p>
   Connect with me on
   <a href="https://www.linkedin.com/in/louisgou/" target="_blank">LinkedIn</a>
