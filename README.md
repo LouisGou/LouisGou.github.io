@@ -32,7 +32,7 @@
   </li>
 
   <li>
-    <strong> <a href="[https://github.com/LouisGou/startup-runway-simulator]" target="_blank">Start-up runway Sim </a> </strong>
+    <strong> <a href="https://github.com/LouisGou/startup-runway-simulator" target="_blank">Start-up runway Sim </a> </strong>
     <ul>
       <li>calculates how much money before money runs low plus some other features</li>
     </ul>
