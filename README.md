@@ -41,7 +41,6 @@
       <li>sees if your making a profit and who's your biggest customer, and relevant deets</li>
     </ul>
   </li>
-  <li>
   
   <li>
     <strong> <a href="https://github.com/LouisGou/startup-runway-simulator" target="_blank">Start-up runway Sim </a> </strong>
