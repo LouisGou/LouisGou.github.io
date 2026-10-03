@@ -27,10 +27,22 @@
 
 <h2>projects</h2>
 <ul>
-  <li>
-    <strong>Options Flow Scanner</strong> (WIP)
+   <li>
+    <strong> <a href="https://github.com/LouisGou/flowscope" target="_blank">Options Flow Scanner</a> </strong>
+    <ul>
+      <li>helps users spot unusual activity and explore contract details (Unsual Whales API needed im poor</li>
+    </ul>
   </li>
 
+
+ <li>
+    <strong> <a href="https://github.com/LouisGou/customer-profitability-dashboard" target="_blank">Customer profitability analysis</a> </strong>
+    <ul>
+      <li>sees if your making a profit and who's your biggest customer, and relevant deets</li>
+    </ul>
+  </li>
+  <li>
+  
   <li>
     <strong> <a href="https://github.com/LouisGou/startup-runway-simulator" target="_blank">Start-up runway Sim </a> </strong>
     <ul>
